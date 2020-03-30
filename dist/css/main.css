@@ -13,7 +13,7 @@
 
 .btn-main {
   color: #333;
-  background-color: #ffbc00; }
+  background-color: #289934; }
 
 .btn-light {
   color: #333;
@@ -26,10 +26,10 @@
 button[class^="btn-"]:hover,
 a[class^="btn-"]:hover,
 input[class^="btn-"]:hover {
-  background-color: #ffbc00; }
+  background-color: #289934; }
 
 .bg-main {
-  background: #ffbc00;
+  background: #289934;
   color: #fff; }
 
 .bg-dark {
@@ -89,7 +89,7 @@ input[class^="btn-"]:hover {
 .bottom-line {
   height: 2px;
   width: 3rem;
-  background: #ffbc00;
+  background: #289934;
   display: block;
   margin: 0 auto 1rem auto; }
 
@@ -101,7 +101,7 @@ input[class^="btn-"]:hover {
 
 .item {
   position: relative;
-  background: #ffbc00;
+  background: #289934;
   overflow: hidden; }
   .item:after {
     content: "";
@@ -214,7 +214,7 @@ img {
     #main-nav a:hover {
       border-color: #ccc; }
     #main-nav a.current {
-      border-color: #ffbc00; }
+      border-color: #289934; }
 
 #header-home {
   background: url("../img/degoba.png") no-repeat center right/cover;
@@ -230,7 +230,7 @@ img {
 #header-inner {
   background: url("../img/degoba.png") no-repeat 20% 30%/cover;
   height: 5.5rem;
-  border-bottom: 3px solid #ffbc00; }
+  border-bottom: 3px solid #289934; }
 
 #home-a .specials {
   margin-top: 3rem;
@@ -238,7 +238,7 @@ img {
   grid-gap: 1rem;
   grid-template-columns: repeat(4, 1fr); }
   #home-a .specials .fas {
-    color: #ffbc00;
+    color: #289934;
     padding-bottom: 0.4rem; }
 
 #home-b .stats {
@@ -268,7 +268,7 @@ img {
     top: 0;
     right: 0;
     font-size: 28px;
-    background: #ffbc00;
+    background: #289934;
     color: #fff;
     border-radius: 50%;
     height: 15px;
@@ -288,7 +288,7 @@ img {
     position: relative;
     transition: all 0.5s; }
     #home-c .process-icon:hover {
-      background: #ffbc00;
+      background: #289934;
       width: 90px;
       height: 90px;
       line-height: 90px; }
@@ -306,7 +306,7 @@ img {
 
 #about-a .bio {
   grid-area: bio;
-  border-left: 3px solid #ffbc00;
+  border-left: 3px solid #289934;
   padding: 0.8rem; }
 
 #about-a .award-1 {
@@ -321,7 +321,7 @@ img {
 #about-a .award-1 .fas,
 #about-a .award-2 .fas,
 #about-a .award-3 .fas {
-  color: #ffbc00;
+  color: #289934;
   margin: 1rem; }
 
 #about-b .tech-width {
@@ -338,7 +338,7 @@ img {
     height: 100%;
     color: #fff;
     text-align: center;
-    background-color: #ffbc00; }
+    background-color: #289934; }
 
 #about-c .about-logo {
   display: grid;
@@ -416,7 +416,7 @@ img {
       text-align: center;
       padding: 0.5rem; }
       #main-footer .footer-content .social .fab:hover {
-        background: #ffbc00; }
+        background: #289934; }
 
 @media (max-width: 800px) {
   #header-home {
@@ -432,13 +432,13 @@ img {
       padding: 1rem; }
   #header-home {
     height: 10rem;
-    border-bottom: 3px solid #ffbc00;
+    border-bottom: 3px solid #289934;
     background-position: 20% 30%; }
     #header-home .header-content {
       display: none; }
   #header-inner {
     height: 10rem;
-    border-bottom: 3px solid #ffbc00; }
+    border-bottom: 3px solid #289934; }
   #home-a .specials,
   #home-b .stats,
   #home-c .process,
