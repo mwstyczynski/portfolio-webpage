@@ -9,7 +9,7 @@ The following repository contains the webpage contructed and deployed as a final
 - click on `More actions`, select `Clone` and provide Github Repository URL
 - this will allow code exporation and modifications 
 
-HTML file can be opened directly from local directory using any given browser like Chrome or Firefox
+#### HTML file can be opened directly from local directory using any given browser like Chrome or Firefox
 
 
 #### @TODO: Complement with content, using sections like: Bugs, ..., Content, Others
