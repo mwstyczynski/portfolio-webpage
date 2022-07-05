@@ -5,8 +5,9 @@ The following repository contains the webpage contructed and deployed as a final
 
 ## Local setup and requirements
 - install [Visual Studio Code](https://code.visualstudio.com/download) application
-- go to `Source Control` tab, click on `More actions`, select `Clone` and provide Github Repository URL
-HTML file can be opened directly from local  directory using any given browser
+- go to `Source Control` tab located in the sidebar on to left hand side
+- click on `More actions`, select `Clone` and provide Github Repository URL
+HTML file can be opened directly from local directory using any given browser like Chrome or Firefox
 
 
 #### @TODO: Complement with content, using sections like: Bugs, ..., Content, Others
