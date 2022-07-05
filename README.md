@@ -7,6 +7,8 @@ The following repository contains the webpage contructed and deployed as a final
 - install [Visual Studio Code](https://code.visualstudio.com/download) application
 - go to `Source Control` tab located in the sidebar on to left hand side
 - click on `More actions`, select `Clone` and provide Github Repository URL
+- this will allow code exporation and modifications 
+
 HTML file can be opened directly from local directory using any given browser like Chrome or Firefox
 
 
